@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29421" started-at="2019-08-14T17:41:09Z" finished-at="2019-08-14T17:41:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29421" started-at="2019-08-14T17:41:09Z" finished-at="2019-08-14T17:41:39Z">
+      <class name="railwayenquiry.RailwayEnquiryAPITest">
+        <test-method status="PASS" signature="init()[pri:0, instance:railwayenquiry.RailwayEnquiryAPITest@1baeedf]" name="init" is-config="true" duration-ms="7180" started-at="2019-08-14T23:11:09Z" finished-at="2019-08-14T23:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="enterJourneyDetails()[pri:1, instance:railwayenquiry.RailwayEnquiryAPITest@1baeedf]" name="enterJourneyDetails" duration-ms="22223" started-at="2019-08-14T23:11:16Z" finished-at="2019-08-14T23:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterJourneyDetails -->
+      </class> <!-- railwayenquiry.RailwayEnquiryAPITest -->
+      <class name="utilities.BaseClass">
+        <test-method status="PASS" signature="init()[pri:0, instance:utilities.BaseClass@e26948]" name="init" is-config="true" duration-ms="3505" started-at="2019-08-14T23:11:06Z" finished-at="2019-08-14T23:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:utilities.BaseClass@e26948]" name="teardown" is-config="true" duration-ms="0" started-at="2019-08-14T23:11:39Z" finished-at="2019-08-14T23:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- utilities.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
